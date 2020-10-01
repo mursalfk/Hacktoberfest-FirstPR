@@ -45,3 +45,4 @@ Looking for first contributions? Just fork this repository add your name to this
 - [Tejan Singh](https://github.com/tejan-singh)
 - [Harsha](https://github.com/Harsha-Ambati)
 - [Vedant Khairnar](https://vedantkhairnar.ml/)
+- [Mursal Furqan](https://mursalfk.github.io)
